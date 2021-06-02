@@ -1,0 +1,126 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2d21e380-5475-48b0-92d7-c0585a4d0fb7\" name=\"Default Changelist\" comment=\"Done Homework of Lesson1\">\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson2/task1.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson2/task2.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson2/task3.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Lesson1\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1tFsRsAN8TLJd2xSAQ8KOxuv1b0\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.task3\">\r\n    <configuration name=\"task1\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\Vol4itsa\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Lesson2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <module name=\"\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Lesson2/task1.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"task2\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\Vol4itsa\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Lesson2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <module name=\"\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Lesson2/task2.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"task3\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\Vol4itsa\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Lesson2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <module name=\"\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Lesson2/task3.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.task2\" />\r\n        <item itemvalue=\"Python.task1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2d21e380-5475-48b0-92d7-c0585a4d0fb7\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1622376167630</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1622376167630</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Done Homework of Lesson1\">\r\n      <created>1622377940974</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1622377940974</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Done Homework of Lesson1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Done Homework of Lesson1\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"458\" y=\"253\" key=\"#Notifications\" timestamp=\"1622501071427\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state x=\"458\" y=\"253\" key=\"#Notifications/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501071427\" />\r\n    <state x=\"587\" y=\"184\" key=\"EnvironmentVariablesDialog\" timestamp=\"1622501784785\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state x=\"587\" y=\"184\" key=\"EnvironmentVariablesDialog/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501784785\" />\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1622501817504\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.bottom/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501817504\" />\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.center\" timestamp=\"1622501817504\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.center/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501817504\" />\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.left\" timestamp=\"1622501817504\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.left/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501817504\" />\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.right\" timestamp=\"1622501817504\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"222\" key=\"GridCell.Tab.0.right/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501817504\" />\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1622501142660\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.bottom/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501142660\" />\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.center\" timestamp=\"1622501142660\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.center/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501142660\" />\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.left\" timestamp=\"1622501142660\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.left/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501142660\" />\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.right\" timestamp=\"1622501142660\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state width=\"709\" height=\"276\" key=\"GridCell.Tab.1.right/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622501142660\" />\r\n    <state x=\"221\" y=\"74\" key=\"SettingsEditor\" timestamp=\"1622502129739\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state x=\"221\" y=\"74\" key=\"SettingsEditor/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622502129739\" />\r\n    <state x=\"312\" y=\"162\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1622377949096\">\r\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"860\" />\r\n    </state>\r\n    <state x=\"312\" y=\"162\" key=\"Vcs.Push.Dialog.v2/0.0.1440.860/-1024.0.1024.768@0.0.1440.860\" timestamp=\"1622377949096\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 8b6985213b34001bff96108c9ba804a015d5db09)
++++ .idea/workspace.xml	(date 1622502492511)
+@@ -19,12 +19,7 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2d21e380-5475-48b0-92d7-c0585a4d0fb7" name="Default Changelist" comment="Done Homework of Lesson1">
+-      <change afterPath="$PROJECT_DIR$/Lesson2/task1.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson2/task2.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson2/task3.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="2d21e380-5475-48b0-92d7-c0585a4d0fb7" name="Default Changelist" comment="Done Homework of Lesson2" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -126,6 +121,9 @@
+     </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="SvnConfiguration">
++    <configuration>C:\Users\Vol4itsa\AppData\Roaming\Subversion</configuration>
++  </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="2d21e380-5475-48b0-92d7-c0585a4d0fb7" name="Default Changelist" comment="" />
+@@ -141,7 +139,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1622377940974</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Done Homework of Lesson2">
++      <created>1622502166691</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1622502166691</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -158,7 +163,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Done Homework of Lesson1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Done Homework of Lesson1" />
++    <MESSAGE value="Done Homework of Lesson2" />
++    <option name="LAST_COMMIT_MESSAGE" value="Done Homework of Lesson2" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="458" y="253" key="#Notifications" timestamp="1622501071427">
+@@ -169,45 +175,45 @@
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+     <state x="587" y="184" key="EnvironmentVariablesDialog/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501784785" />
+-    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1622501817504">
++    <state width="709" height="276" key="GridCell.Tab.0.bottom" timestamp="1622502492468">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501817504" />
+-    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1622501817504">
++    <state width="709" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492468" />
++    <state width="709" height="276" key="GridCell.Tab.0.center" timestamp="1622502492467">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501817504" />
+-    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1622501817504">
++    <state width="709" height="276" key="GridCell.Tab.0.center/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492467" />
++    <state width="709" height="276" key="GridCell.Tab.0.left" timestamp="1622502492467">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501817504" />
+-    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1622501817504">
++    <state width="709" height="276" key="GridCell.Tab.0.left/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492467" />
++    <state width="709" height="276" key="GridCell.Tab.0.right" timestamp="1622502492467">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501817504" />
+-    <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1622501142660">
++    <state width="709" height="276" key="GridCell.Tab.0.right/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492467" />
++    <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1622502492468">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501142660" />
+-    <state width="709" height="276" key="GridCell.Tab.1.center" timestamp="1622501142660">
++    <state width="709" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492468" />
++    <state width="709" height="276" key="GridCell.Tab.1.center" timestamp="1622502492468">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="276" key="GridCell.Tab.1.center/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501142660" />
+-    <state width="709" height="276" key="GridCell.Tab.1.left" timestamp="1622501142660">
++    <state width="709" height="276" key="GridCell.Tab.1.center/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492468" />
++    <state width="709" height="276" key="GridCell.Tab.1.left" timestamp="1622502492468">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="276" key="GridCell.Tab.1.left/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501142660" />
+-    <state width="709" height="276" key="GridCell.Tab.1.right" timestamp="1622501142660">
++    <state width="709" height="276" key="GridCell.Tab.1.left/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492468" />
++    <state width="709" height="276" key="GridCell.Tab.1.right" timestamp="1622502492468">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state width="709" height="276" key="GridCell.Tab.1.right/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622501142660" />
+-    <state x="221" y="74" key="SettingsEditor" timestamp="1622502129739">
++    <state width="709" height="276" key="GridCell.Tab.1.right/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502492468" />
++    <state x="221" y="74" key="SettingsEditor" timestamp="1622502254912">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state x="221" y="74" key="SettingsEditor/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502129739" />
+-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1622377949096">
++    <state x="221" y="74" key="SettingsEditor/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502254912" />
++    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1622502289779">
+       <screen x="0" y="0" width="1440" height="860" />
+     </state>
+-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622377949096" />
++    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622502289779" />
+   </component>
+ </project>
+\ No newline at end of file
