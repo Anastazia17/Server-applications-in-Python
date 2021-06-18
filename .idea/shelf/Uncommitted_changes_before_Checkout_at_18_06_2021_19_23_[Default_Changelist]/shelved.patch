@@ -1,0 +1,143 @@
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2021_21_04_[Default_Changelist]/shelved.patch
+===================================================================
+--- .idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2021_21_04_[Default_Changelist]/shelved.patch	(revision 2dad9c7c33e8f392e3d9de2b67c9c31e42c23197)
++++ .idea/shelf/Uncommitted_changes_before_Checkout_at_10_06_2021_21_04_[Default_Changelist]/shelved.patch	(revision 2dad9c7c33e8f392e3d9de2b67c9c31e42c23197)
+@@ -1,76 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"298e2713-80d6-419e-aa0c-0f3241ee92ba\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+---- .idea/workspace.xml	(revision 556e741be53456390671c28d3c945d320f2bd4e1)
+-+++ .idea/workspace.xml	(date 1623083757671)
+-@@ -19,16 +19,64 @@
+-     <select />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="298e2713-80d6-419e-aa0c-0f3241ee92ba" name="Default Changelist" comment="" />
+-+    <list default="true" id="298e2713-80d6-419e-aa0c-0f3241ee92ba" name="Default Changelist" comment="Done Homework of Lesson4 (task 1)">
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-     <option name="LAST_RESOLUTION" value="IGNORE" />
+-   </component>
+-+  <component name="Git.Settings">
+-+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-+  </component>
+-+  <component name="ProjectId" id="1tZYiBcc3miPJS9EohnuGxp6igl" />
+-+  <component name="ProjectViewState">
+-+    <option name="hideEmptyMiddlePackages" value="true" />
+-+    <option name="showLibraryContents" value="true" />
+-+  </component>
+-+  <component name="PropertiesComponent">
+-+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-+  </component>
+-+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-   <component name="TaskManager">
+-+    <task active="true" id="Default" summary="Default task">
+-+      <changelist id="298e2713-80d6-419e-aa0c-0f3241ee92ba" name="Default Changelist" comment="" />
+-+      <created>1622978203467</created>
+-+      <option name="number" value="Default" />
+-+      <option name="presentableId" value="Default" />
+-+      <updated>1622978203467</updated>
+-+    </task>
+-+    <task id="LOCAL-00001" summary="Done Homework of Lesson4 (task 1)">
+-+      <created>1622978474465</created>
+-+      <option name="number" value="00001" />
+-+      <option name="presentableId" value="LOCAL-00001" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1622978474465</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="2" />
+-     <servers />
+-   </component>
+-   <component name="Vcs.Log.Tabs.Properties">
+-+    <option name="TAB_STATES">
+-+      <map>
+-+        <entry key="MAIN">
+-+          <value>
+-+            <State />
+-+          </value>
+-+        </entry>
+-+      </map>
+-+    </option>
+-     <option name="oldMeFiltersMigrated" value="true" />
+-   </component>
+-+  <component name="VcsManagerConfiguration">
+-+    <MESSAGE value="Done Homework of Lesson4 (task 1)" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Done Homework of Lesson4 (task 1)" />
+-+  </component>
+-+  <component name="WindowStateProjectService">
+-+    <state x="312" y="149" key="Vcs.Push.Dialog.v2" timestamp="1622978483429">
+-+      <screen x="0" y="0" width="1440" height="860" />
+-+    </state>
+-+    <state x="312" y="149" key="Vcs.Push.Dialog.v2/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1622978483429" />
+-+  </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"99a38732-16b2-439b-98d4-bf579b99eb94\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/chat/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/chat/chat.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/chat/jim.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/client.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/log/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/log/client_log_config.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/log/server_log_config.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/server.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/test/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/test/test_chat.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson5/test/test_server.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1tlf1yQcR8xiqBMjsHyjEdotibr\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"99a38732-16b2-439b-98d4-bf579b99eb94\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1623348386978</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1623348386978</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 2dad9c7c33e8f392e3d9de2b67c9c31e42c23197)
++++ .idea/workspace.xml	(date 1623352319101)
+@@ -19,20 +19,7 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="99a38732-16b2-439b-98d4-bf579b99eb94" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/Lesson5/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/chat/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/chat/chat.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/chat/jim.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/client.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/log/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/log/client_log_config.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/log/server_log_config.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/server.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/test/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/test/test_chat.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lesson5/test/test_server.py" afterDir="false" />
+-    </list>
++    <list default="true" id="99a38732-16b2-439b-98d4-bf579b99eb94" name="Default Changelist" comment="Done Homework of Lesson5" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -58,6 +45,14 @@
+       <option name="presentableId" value="Default" />
+       <updated>1623348386978</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Done Homework of Lesson5">
++      <created>1623352167630</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1623352167630</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -72,4 +67,14 @@
+     </option>
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Done Homework of Lesson5" />
++    <option name="LAST_COMMIT_MESSAGE" value="Done Homework of Lesson5" />
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="312" y="149" key="Vcs.Push.Dialog.v2" timestamp="1623352169443">
++      <screen x="0" y="0" width="1440" height="860" />
++    </state>
++    <state x="312" y="149" key="Vcs.Push.Dialog.v2/0.0.1440.860/-1024.0.1024.768@0.0.1440.860" timestamp="1623352169443" />
++  </component>
+ </project>
+\ No newline at end of file
